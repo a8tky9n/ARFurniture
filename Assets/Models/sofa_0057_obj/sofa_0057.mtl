@@ -1,0 +1,31 @@
+# Creator form*Z v 8.5.7 (Build 9929), (c) 2016 
+# Date 05/03/18 12:48:34
+# User :Reo:Z-0109388
+# Material File
+
+newmtl sofa_a09_c003
+Ka 1 1 1
+Kd 0.5 0.5 0.5
+Ks 0.3 0.3 0.3
+Tf 0 0 0
+illum 4
+d 1.0
+Ns 100
+sharpness 60
+Ni 1
+map_Ka cloth_003_9.jpg
+map_Kd cloth_003_9.jpg
+map_Ks cloth_003_9.jpg
+bump cloth_003_bump.jpg
+
+newmtl sofa_03
+Ka 0.3 0.3 0.3
+Kd 0.0364706 0.0364706 0.0364706
+Ks 0.2 0.2 0.2
+Tf 0 0 0
+illum 4
+d 1.0
+Ns 11.1111
+sharpness 60
+Ni 1
+
